@@ -1,4 +1,4 @@
 ## Projects
 
-- 💩 [NO BULLSHIT RSS](https://oliverjessner.at/no-bullshit-rss/#promise) - No Bullshit RSS is a sharp, self-hosted feed reader built for people who want their attention back. 
+- 💩 [NO BULLSHIT RSS](https://oliverjessner.at/no-bullshit-rss/) - No Bullshit RSS is a sharp, self-hosted feed reader built for people who want their attention back. 
 - 🏠 [KlauselCheck](https://klauselcheck.com/) - Upload yout rental agreement and you'll receive an automatic assessment of questionable rental clauses.
