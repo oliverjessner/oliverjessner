@@ -1,5 +1,5 @@
 ## Projects
-- 🪢 [KnotenWerk](https://github.com/oliverjessner/KnotenWerk) - Sketch decisions. Run scenarios. [Coming Soon]
+- 🪢 [KnotenWerk](https://oliverjessner.at/knotenwerk/) - Sketch decisions. Run scenarios
 - 🧮 [Billly](https://oliverjessner.at/billly/) - A fully automated local bot that handles your small business finances 
 - 🍍 [PineFetch](https://oliverjessner.at/pinefetch/) - Save clips. Watch offline. Grab a pineapple.
 - 💩 [NO BULLSHIT RSS](https://oliverjessner.at/no-bullshit-rss/) - RSS reader without the SaaS leash.
