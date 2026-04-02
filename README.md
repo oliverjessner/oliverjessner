@@ -1,5 +1,6 @@
 # Projects
 
+- 🟨 [SQLite Hub](https://oliverjessner.at/sqlite-hub/) A cyberpunk inspired management app for sqlite
 - 🖼️ [BulkPixel](https://oliverjessner.at/bulkpixel/) - Convert more. Click less.
 - 🪢 [KnotenWerk](https://oliverjessner.at/knotenwerk/) - Sketch decisions. Run scenarios
 - 🧮 [Billly](https://oliverjessner.at/billly/) - A fully automated local bot that handles your small business finances 
