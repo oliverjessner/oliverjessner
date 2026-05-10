@@ -1,5 +1,6 @@
 # Projects
 
+- ⚠️ [ItWorksBut](https://github.com/oliverjessner/ItWorksBut) finds the hidden risks in vibe coding.
 - 📢 [VoiceByte](https://voicebyte.netlify.app/) From text to voice, instantly.
 - ⚡️ [SQLite Hub](https://oliverjessner.at/sqlite-hub/) A cyberpunk inspired management app for sqlite
 - 🖼️ [BulkPixel](https://oliverjessner.at/bulkpixel/) - Convert more. Click less.
