@@ -1,6 +1,5 @@
 # Projects
 
-- 🐉 [Bash & Slash](https://github.com/oliverjessner/Bash-and-Slash) - turn-based battle. zero rng. all skill.
 - ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
 - 📢 [VoiceByte](https://voicebyte.netlify.app/) - From text to voice, instantly.
 - ⚡️ [SQLite Hub](https://oliverjessner.at/sqlite-hub/) - A cyberpunk inspired management app for sqlite
@@ -11,6 +10,7 @@
 - 💩 [NO BULLSHIT RSS](https://oliverjessner.at/no-bullshit-rss/) - RSS reader without the SaaS leash.
 - 🏠 [KlauselCheck](https://klauselcheck.com/) - Check your lease and get an AI review of questionable rental clauses.
 - 💙 [BlauHerzFilter](https://chromewebstore.google.com/detail/blauherzfilter/ekhanknjgoennfolmgpmhfhkfehcgldp) - A 💙 comment filter for your favorite social media platforms
+- 🐉 [Bash & Slash](https://github.com/oliverjessner/Bash-and-Slash) - turn-based battle. zero rng. all skill.
 
 # SOUL.md
 
