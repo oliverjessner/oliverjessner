@@ -1,8 +1,8 @@
 # Projects
 
 - ⚡️ [SQLite Hub](https://oliverjessner.at/sqlite-hub/) - A cyberpunk inspired management app for SQLite
-- 🍍 [PineFetch Link Dump](https://github.com/oliverjessner/PineFetch-Link-Dump) YouTube-Channel öffnen, Links exportieren, TXT speichern.
 - 🍍 [PineFetch](https://oliverjessner.at/pinefetch/) - Save clips. Watch offline. Grab a pineapple.
+- 🍍 [PineFetch Link Dump](https://github.com/oliverjessner/PineFetch-Link-Dump) Send YouTube links from your browser to PineFetch.
 - 🖼️ [BulkPixel](https://oliverjessner.at/bulkpixel/) - Convert more. Click less.
 - ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
 - 📢 [VoiceByte](https://voicebyte.netlify.app/) - From text to voice, instantly.
