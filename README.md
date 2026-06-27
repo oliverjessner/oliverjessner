@@ -4,7 +4,7 @@
 - 🍍 [PineFetch](https://oliverjessner.at/pinefetch/) - Save clips. Watch offline. Grab a pineapple.
 - 🍍 [PineFetch Link Dump](https://github.com/oliverjessner/PineFetch-Link-Dump) Send YouTube links from your browser to PineFetch.
 - 🖼️ [BulkPixel](https://oliverjessner.at/bulkpixel/) - Convert more. Click less.
-- 💞 [ClipSpin](https://github.com/oliverjessner/clipspin) - cycle your paste queue with every Cmd+V. 
+- 💞 [ClipSpin](https://github.com/oliverjessner/clipspin) - cycle your paste queue with every CMD+V. 
 - ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
 - 📢 [VoiceByte](https://voicebyte.netlify.app/) - From text to voice, instantly.
 - 🧮 [Billly](https://oliverjessner.at/billly/) - A fully automated local bot that handles your small business finances
