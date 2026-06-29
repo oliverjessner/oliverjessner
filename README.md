@@ -6,11 +6,11 @@
 - 🖼️ [BulkPixel](https://oliverjessner.at/bulkpixel/) - Convert more. Click less.
 - 💞 [ClipSpin](https://github.com/oliverjessner/clipspin) - A temporary second paste queue for macOS.
 - ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
-- 📢 [VoiceByte](https://voicebyte.netlify.app/) - From text to voice, instantly.
+- 🐉 [Bash & Slash](https://github.com/oliverjessner/Bash-and-Slash) - turn-based battle. zero rng. all skill.
 - 🧮 [Billly](https://oliverjessner.at/billly/) - A fully automated local bot that handles your small business finances
 - 💩 [NO BULLSHIT RSS](https://oliverjessner.at/no-bullshit-rss/) - RSS reader without the SaaS leash.
 - 💙 [BlauHerzFilter](https://chromewebstore.google.com/detail/blauherzfilter/ekhanknjgoennfolmgpmhfhkfehcgldp) - A 💙 comment filter for your favorite social media platforms
-- 🐉 [Bash & Slash](https://github.com/oliverjessner/Bash-and-Slash) - turn-based battle. zero rng. all skill.
+- 📢 [VoiceByte](https://voicebyte.netlify.app/) - From text to voice, instantly.
 - 🪢 [KnotenWerk](https://oliverjessner.at/knotenwerk/) - Sketch decisions. Run scenarios
 
 # SOUL.md
