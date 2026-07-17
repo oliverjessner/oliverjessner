@@ -1,4 +1,8 @@
-# Projects 
+# Hi, I am Oli
+
+Ex-founder | Ex-CTO | Builder | Tech & business journalist | 15 Years Exp+ | MBA. Ing | 📍 Salzburg
+
+## Projects 
 
 - ⚡️ [SQLite Hub](https://oliverjessner.at/sqlite-hub/) - A cyberpunk inspired management app for SQLite
 - 🎤 [SkipTheVoice](https://github.com/oliverjessner/SkipTheVoice) - Turn messenger voice messages into text.
@@ -15,6 +19,9 @@
 - 🦆 [DuckDeep](https://github.com/oliverjessner/DuckDeep) - Quack your way down.
 - 🐉 [Bash & Slash](https://github.com/oliverjessner/Bash-and-Slash) - turn-based battle. zero rng. all skill.
 
-# SOUL.md
+## More about me
 
-Ex-founder. Ex-CTO. Builder. Tech & business journalist. 15 Years Exp+. MBA. Ing.
+- My Website [oliverjessner.at](https://oliverjessner.at/)
+- My Work @ [Golem](https://www.golem.de/search/?q=oliver+jessner)
+- My Work @ [IGN](https://de.ign.com/u/oliver-jessner)
+- all [Links](https://oliverjessner.at/linkhub)
