@@ -1,4 +1,4 @@
-# Hi, I am Oli
+# Hi, I´m Oliver but you can call me Oil
 
 Ex-founder | Ex-CTO | Builder | Tech & business journalist | 15 Years Exp+ | MBA. Ing | 📍 Salzburg
 
