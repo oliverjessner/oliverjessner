@@ -10,6 +10,7 @@ Ex-founder | Ex-CTO | Builder | Tech & business journalist | 15 Years Exp+ | MBA
 - 🎤 [SkipTheVoice](https://oliverjessner.at/skipthevoice/) - Turn messenger voice messages into text.
 - 🍍 [PineFetch](https://oliverjessner.at/pinefetch/) - Save clips. Watch offline. Grab a pineapple.
 - 🍍 [PineFetch Link Dump](https://github.com/oliverjessner/PineFetch-Link-Dump) - Send YouTube links from your browser to PineFetch.
+- 🧩 [text2struct](https://github.com/oliverjessner/text2struct) - Convert plain text to structured formats: JSON, SQL, Markdown tables, and CSV.
 - 🖼️ [BulkPixel](https://oliverjessner.at/bulkpixel/) - Convert more. Click less.
 - ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
 - 🧮 [Billly](https://oliverjessner.at/billly/) - A fully automated local bot that handles your small business finances.
