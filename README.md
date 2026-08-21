@@ -5,8 +5,9 @@ Ex-founder | Ex-CTO | Builder | Tech & business journalist | 15 Years Exp+ | MBA
 
 ## Projects 
 
-- 👔 [interviewed](https://interviewed.review/) - Rate the process, not the company.
 - ⚡️ [SQLite Hub](https://oliverjessner.at/sqlite-hub/) - A cyberpunk inspired management app for SQLite.
+- 🔍 [RedactionResearch](https://github.com/oliverjessner/RedactionResearch) - When black bars aren't enough.
+- 👔 [interviewed](https://interviewed.review/) - Rate the process, not the company.
 - 🎤 [SkipTheVoice](https://oliverjessner.at/skipthevoice/) - Turn messenger voice messages into text.
 - 🍍 [PineFetch](https://oliverjessner.at/pinefetch/) - Save clips. Watch offline. Grab a pineapple.
 - 🍍 [PineFetch Link Dump](https://github.com/oliverjessner/PineFetch-Link-Dump) - Send YouTube links from your browser to PineFetch.
