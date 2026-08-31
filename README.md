@@ -13,6 +13,7 @@ Ex-founder | Ex-CTO | Builder | Tech & business journalist | 15 Years Exp+ | MBA
 - 🔍 [RedactionResearch](http://oliverjessner.at/redaction-research) - When black bars aren't enough.
 - 👔 [interviewed](https://interviewed.review/) - Rate the process, not the company.
 - 🎤 [SkipTheVoice](https://oliverjessner.at/skipthevoice/) - Turn messenger voice messages into text.
+- 👁️ [fetchary](https://github.com/oliverjessner/fetchary) - Watch changes. Keep the proof.
 - 🧩 [text2struct](https://github.com/oliverjessner/text2struct) - Convert plain text to structured formats: JSON, SQL, Markdown tables, and CSV.
 - ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
 - 🧮 [Billly](https://oliverjessner.at/billly/) - A fully automated local bot that handles your small business finances.
