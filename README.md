@@ -20,12 +20,12 @@ Ex-founder | Ex-CTO | Builder | Tech & business journalist | 15 Years Exp+ | MBA
 - 💞 [ClipSpin](https://github.com/oliverjessner/clipspin) - A temporary second paste queue for macOS.
 - 📢 [VoiceByte](https://voicebyte.netlify.app/) - From text to voice, instantly.
 - 💙 [BlauHerzFilter](https://chromewebstore.google.com/detail/blauherzfilter/ekhanknjgoennfolmgpmhfhkfehcgldp) - A 💙 comment filter for your favorite social media platforms.
-- 🦆 [DuckDeep](https://github.com/oliverjessner/DuckDeep) - Quack your way down.
-- 🐉 [Bash & Slash](https://github.com/oliverjessner/Bash-and-Slash) - turn-based battle. zero rng. all skill.
 
 ### Deprecated 
 
 - 🪢 [KnotenWerk](https://oliverjessner.at/knotenwerk/) - Sketch decisions. Run scenarios.
+- 🦆 [DuckDeep](https://github.com/oliverjessner/DuckDeep) - Quack your way down.
+- 🐉 [Bash & Slash](https://github.com/oliverjessner/Bash-and-Slash) - turn-based battle. zero rng. all skill.
 
 ## More about me
 
