@@ -5,6 +5,7 @@ Ex-founder | Ex-CTO | Builder | Tech & business journalist | 15 Years Exp+ | MBA
 
 ## Projects 
 
+- 🤴🏼 [OpenEmperor](https://github.com/oliverjessner/OpenEmperor) -OpenEmperor — Recompilation of Emperor: Rise of the Middle Kingdom
 - ⚡️ [SQLite Hub](https://oliverjessner.at/sqlite-hub/) - A cyberpunk inspired management app for SQLite.
 - 🖼️ [BulkPixel](https://oliverjessner.at/bulkpixel/) - Convert more. Click less.
 - 🍍 [PineFetch](https://oliverjessner.at/pinefetch/) - Save clips. Watch offline. Grab a pineapple.
