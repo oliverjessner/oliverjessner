@@ -1,4 +1,4 @@
-# Hi, I´m Oliver but you can call me Oil
+# Hi, I´m Oliver but you can call me Oli
 [![committers.top badge](https://user-badge.committers.top/austria/oliverjessner.svg)](https://user-badge.committers.top/austria/oliverjessner) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=oliverjessner&left_text=visitors&logo=github)
 
 Ex-founder | Ex-CTO | Builder | Tech & business journalist | 15 Years Exp+ | MBA + Ing | 📍 Salzburg
