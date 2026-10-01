@@ -2,6 +2,7 @@
 [![committers.top badge](https://user-badge.committers.top/austria/oliverjessner.svg)](https://user-badge.committers.top/austria/oliverjessner) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=oliverjessner&left_text=visitors&logo=github)
 
 Founder @ dynamiq. | Tech- & Wirtschaftsjournalist | 15+ Years in Tech | MBA + Ing | 📍 Salzburg
+Published at:  Die ZEIT · Golem.de · t3n · IGN · GameStar Tech · IT-Finanzmagazin
 
 ## Projects 
 
