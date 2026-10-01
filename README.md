@@ -3,7 +3,7 @@
 
 Founder @ dynamiq. | Tech- & Wirtschaftsjournalist | 15+ Years in Tech | MBA + Ing | 📍 Salzburg
 
-Published at:  Die ZEIT · Golem.de · t3n · IGN · GameStar Tech · IT-Finanzmagazin
+Published at:  DIE ZEIT · Golem.de · t3n · IGN · GameStar Tech · IT-Finanzmagazin
 
 ## Projects 
 
