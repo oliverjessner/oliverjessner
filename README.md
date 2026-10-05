@@ -15,11 +15,11 @@ Published at:  DIE ZEIT · Golem.de · t3n · IGN · GameStar Tech · IT-Finan
 - 💩 [NO BULLSHIT RSS](https://oliverjessner.at/no-bullshit-rss/) - RSS reader without the SaaS leash.
 - 🪦 [LinkYard](https://github.com/oliverjessner/LinkYard) - Where links go before they disappear.
 - 👁️ [fetchary](https://github.com/oliverjessner/fetchary) - A local-first evidence layer for the public web.
+- ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
 - 🔍 [RedactionResearch](http://oliverjessner.at/redaction-research) - When black bars aren't enough.
 - 👔 [interviewed](https://interviewed.review/) - Rate the process, not the company.
 - 🎤 [SkipTheVoice](https://oliverjessner.at/skipthevoice/) - Turn messenger voice messages into text.
 - 🧩 [text2struct](https://github.com/oliverjessner/text2struct) - Convert plain text to structured formats: JSON, SQL, Markdown tables, and CSV.
-- ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
 - 🧮 [Billly](https://oliverjessner.at/billly/) - A fully automated local bot that handles your small business finances.
 - 💞 [ClipSpin](https://github.com/oliverjessner/clipspin) - A temporary second paste queue for macOS.
 - 📢 [VoiceByte](https://voicebyte.netlify.app/) - From text to voice, instantly.
