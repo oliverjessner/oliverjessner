@@ -5,25 +5,36 @@ Founder @ dynamiq. | Tech- & Wirtschaftsjournalist | 15+ Years in Tech | MBA + I
 
 Published at:  DIE ZEIT · Golem.de · t3n · IGN · GameStar Tech · IT-Finanzmagazin
 
-## Projects 
+# Projects 
 
+## Games
 - 🤴🏼 [OpenEmperor](https://github.com/oliverjessner/OpenEmperor) - Recompilation of Emperor: Rise of the Middle Kingdom
-- ⚡️ [SQLite Hub](https://oliverjessner.at/sqlite-hub/) - A cyberpunk inspired management app for SQLite.
+
+## Nativ Desktop Apps
 - 🍍 [PineFetch](https://oliverjessner.at/pinefetch/) - Save clips. Watch offline. Grab a pineapple.
-- 🍍 [PineFetch Link Dump](https://github.com/oliverjessner/PineFetch-Link-Dump) - Send YouTube links from your browser to PineFetch.
 - 🖼️ [BulkPixel](https://oliverjessner.at/bulkpixel/) - Convert more. Click less.
 - 💩 [NO BULLSHIT RSS](https://oliverjessner.at/no-bullshit-rss/) - RSS reader without the SaaS leash.
-- 🪦 [LinkYard](https://chromewebstore.google.com/detail/linkyard/gjiooiibelbfndjihhkppkflbflopnpp) - Where links go before they disappear.
-- 👁️ [fetchary](https://github.com/oliverjessner/fetchary) - A local-first evidence layer for the public web.
-- ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
 - 🧮 [Billly](https://oliverjessner.at/billly/) - A fully automated local bot that handles your small business finances.
-- 🫒 [oj-designsystem](https://github.com/oliverjessner/oj-designsystem) - One family. Different products. A calm, framework-free design system.
+
+## SaaS / Web Apps
+- ⚡️ [SQLite Hub](https://oliverjessner.at/sqlite-hub/) - A cyberpunk inspired management app for SQLite.
 - 🔍 [RedactionResearch](http://oliverjessner.at/redaction-research) - When black bars aren't enough.
 - 👔 [interviewed](https://interviewed.review/) - Rate the process, not the company.
 - 🎤 [SkipTheVoice](https://oliverjessner.at/skipthevoice/) - Turn messenger voice messages into text.
-- 🧩 [text2struct](https://github.com/oliverjessner/text2struct) - Convert plain text to structured formats: JSON, SQL, Markdown tables, and CSV.
-- 💞 [ClipSpin](https://github.com/oliverjessner/clipspin) - A temporary second paste queue for macOS.
 - 📢 [VoiceByte](https://voicebyte.netlify.app/) - From text to voice, instantly.
+  
+## CLI
+- 👁️ [fetchary](https://github.com/oliverjessner/fetchary) - A local-first evidence layer for the public web.
+- ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
+- 💞 [ClipSpin](https://github.com/oliverjessner/clipspin) - A temporary second paste queue for macOS.
+
+## Libs
+- 🫒 [oj-designsystem](https://github.com/oliverjessner/oj-designsystem) - One family. Different products. A calm, framework-free design system.
+- 🧩 [text2struct](https://github.com/oliverjessner/text2struct) - Convert plain text to structured formats: JSON, SQL, Markdown tables, and CSV.
+
+## Browser Extension
+- 🪦 [LinkYard](https://chromewebstore.google.com/detail/linkyard/gjiooiibelbfndjihhkppkflbflopnpp) - Where links go before they disappear.
+- 🍍 [PineFetch Link Dump](https://github.com/oliverjessner/PineFetch-Link-Dump) - Send YouTube links from your browser to PineFetch.
 - 💙 [BlauHerzFilter](https://chromewebstore.google.com/detail/blauherzfilter/ekhanknjgoennfolmgpmhfhkfehcgldp) - A 💙 comment filter for your favorite social media platforms.
 
 ### Deprecated 
