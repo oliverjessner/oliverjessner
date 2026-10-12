@@ -1,9 +1,9 @@
 # Hi, I´m Oliver but you can call me Oli
 [![committers.top badge](https://user-badge.committers.top/austria/oliverjessner.svg)](https://user-badge.committers.top/austria/oliverjessner) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=oliverjessner&left_text=visitors&logo=github)
 
-Founder @ dynamiq. | Tech- & Wirtschaftsjournalist | 15+ Years in Tech | MBA + Ing | 📍 Salzburg
+[Founder @ dynamiq.](https://dynamiq.agency) | [Tech- & Wirtschaftsjournalist](https://oliverjessner.at/journalismus/publications/) | 15+ Years in Tech | MBA + Ing | 📍 Salzburg
 
-Published at:  DIE ZEIT · Golem.de · t3n · IGN · GameStar Tech · IT-Finanzmagazin
+Published at:  [DIE ZEIT](https://www.zeit.de/autoren/J/Oliver-_Jessner/index) · [Golem.de](https://www.golem.de/search/?q=oliver%20jessner) · t3n · [IGN](https://de.ign.com/u/oliver-jessner) · GameStar Tech · IT-Finanzmagazin
 
 # Projects 
 
@@ -36,16 +36,3 @@ Published at:  DIE ZEIT · Golem.de · t3n · IGN · GameStar Tech · IT-Finan
 - 🪦 [LinkYard](https://chromewebstore.google.com/detail/linkyard/gjiooiibelbfndjihhkppkflbflopnpp) - Where links go before they disappear.
 - 🍍 [PineFetch Link Dump](https://github.com/oliverjessner/PineFetch-Link-Dump) - Send YouTube links from your browser to PineFetch.
 - 💙 [BlauHerzFilter](https://chromewebstore.google.com/detail/blauherzfilter/ekhanknjgoennfolmgpmhfhkfehcgldp) - A 💙 comment filter for your favorite social media platforms.
-
-### Deprecated 
-
-- 🪢 [KnotenWerk](https://oliverjessner.at/knotenwerk/) - Sketch decisions. Run scenarios.
-- 🦆 [DuckDeep](https://github.com/oliverjessner/DuckDeep) - Quack your way down.
-- 🐉 [Bash & Slash](https://github.com/oliverjessner/Bash-and-Slash) - turn-based battle. zero rng. all skill.
-
-## More about me
-
-- My Website [oliverjessner.at](https://oliverjessner.at/)
-- My Work @ [Golem](https://www.golem.de/search/?q=oliver+jessner)
-- My Work @ [IGN](https://de.ign.com/u/oliver-jessner)
-- all [Links](https://oliverjessner.at/linkhub)
