@@ -18,6 +18,7 @@ Published at:  [DIE ZEIT](https://www.zeit.de/autoren/J/Oliver-_Jessner/index)
 
 ## SaaS / Web Apps
 - ⚡️ [SQLite Hub](https://oliverjessner.at/sqlite-hub/) - A cyberpunk inspired management app for SQLite.
+- 💰 [Pitchary](https://github.com/oliverjessner/pitchary) - Every pitch has a history. A lightweight CRM for services, clients and deals.
 - 🔍 [RedactionResearch](http://oliverjessner.at/redaction-research) - When black bars aren't enough.
 - 👔 [interviewed](https://interviewed.review/) - Rate the process, not the company.
 - 🎤 [SkipTheVoice](https://oliverjessner.at/skipthevoice/) - Turn messenger voice messages into text.
