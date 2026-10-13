@@ -14,11 +14,10 @@ Published at:  [DIE ZEIT](https://www.zeit.de/autoren/J/Oliver-_Jessner/index)
 - 🍍 [PineFetch](https://oliverjessner.at/pinefetch/) - Save clips. Watch offline. Grab a pineapple.
 - 🖼️ [BulkPixel](https://oliverjessner.at/bulkpixel/) - Convert more. Click less.
 - 💩 [NO BULLSHIT RSS](https://oliverjessner.at/no-bullshit-rss/) - RSS reader without the SaaS leash.
-- 🧮 [Billly](https://oliverjessner.at/billly/) - A fully automated local bot that handles your small business finances.
+- 🧮 [Pitchary](https://github.com/oliverjessner/pitchary) - Every pitch has a history. A lightweight CRM for services, clients and deals.
 
 ## SaaS / Web Apps
 - ⚡️ [SQLite Hub](https://oliverjessner.at/sqlite-hub/) - A cyberpunk inspired management app for SQLite.
-- 💰 [Pitchary](https://github.com/oliverjessner/pitchary) - Every pitch has a history. A lightweight CRM for services, clients and deals.
 - 🔍 [RedactionResearch](http://oliverjessner.at/redaction-research) - When black bars aren't enough.
 - 👔 [interviewed](https://interviewed.review/) - Rate the process, not the company.
 - 🎤 [SkipTheVoice](https://oliverjessner.at/skipthevoice/) - Turn messenger voice messages into text.
