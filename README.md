@@ -29,6 +29,7 @@ Published at:  [DIE ZEIT](https://www.zeit.de/autoren/J/Oliver-_Jessner/index)
 - 💞 [ClipSpin](https://github.com/oliverjessner/clipspin) - A temporary second paste queue for macOS.
 
 ## Libs
+- 🪶 [tinyico](https://github.com/oliverjessner/tinyico) - Zero dependencies. Minimal footprint. Fast ICO processing for Node.js.
 - 🫒 [oj-designsystem](https://github.com/oliverjessner/oj-designsystem) - One family. Different products. A calm, framework-free design system.
 - 🧩 [text2struct](https://github.com/oliverjessner/text2struct) - Convert plain text to structured formats: JSON, SQL, Markdown tables, and CSV.
 
