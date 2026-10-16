@@ -24,7 +24,7 @@ Published at:  [DIE ZEIT](https://www.zeit.de/autoren/J/Oliver-_Jessner/index)
 - 📢 [VoiceByte](https://voicebyte.netlify.app/) - From text to voice, instantly.
   
 ## CLI
-- 👁️ [fetchary](https://github.com/oliverjessner/fetchary) - Fetch less. Extract more.
+- 👁️ [fetchary](https://github.com/oliverjessner/fetchary) - Semantic web extraction. The smarter way to fetch the web.
 - ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
 - 💞 [ClipSpin](https://github.com/oliverjessner/clipspin) - A temporary second paste queue for macOS.
 
