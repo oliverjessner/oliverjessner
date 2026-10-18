@@ -1,7 +1,7 @@
 # Hi, I´m Oliver but you can call me Oli
 [![committers.top badge](https://user-badge.committers.top/austria/oliverjessner.svg)](https://user-badge.committers.top/austria/oliverjessner) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=oliverjessner&left_text=visitors&logo=github)
 
-[Founder @ dynamiq.](https://dynamiq.agency) | [Tech- & Wirtschaftsjournalist](https://oliverjessner.at/journalismus/publications/) | 15+ Years in Tech | MBA + Ing | 📍 Salzburg
+[Founder @ dynamiq.](https://dynamiq.agency) | [Tech- & Wirtschaftsjournalist](https://oliverjessner.at/journalismus/publications/) | 15+ Years in Tech | MBA + Ing | 📍 Austria/Salzburg
 
 Published at:  [DIE ZEIT](https://www.zeit.de/autoren/J/Oliver-_Jessner/index) · [Golem.de](https://www.golem.de/search/?q=oliver%20jessner) · t3n · [IGN](https://de.ign.com/u/oliver-jessner) · GameStar Tech · IT-Finanzmagazin
 
