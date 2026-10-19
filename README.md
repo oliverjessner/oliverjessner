@@ -26,6 +26,7 @@ Published at:  [DIE ZEIT](https://www.zeit.de/autoren/J/Oliver-_Jessner/index)
 ## CLI
 - 👁️ [fetchary](https://github.com/oliverjessner/fetchary) - Semantic web extraction. The smarter way to fetch the web.
 - 🔗 [linkary](https://github.com/oliverjessner/linkary) - Understand every link.
+- 🧹 [cleanary](https://github.com/oliverjessner/fetchary) - Find duplicates. Keep clarity.
 - ⚠️ [ItWorksBut](https://oliverjessner.at/itworksbut/) - Finds the hidden risks in vibe coding.
 - 💞 [ClipSpin](https://github.com/oliverjessner/clipspin) - A temporary second paste queue for macOS.
 
