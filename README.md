@@ -11,7 +11,7 @@ Published at:  [DIE ZEIT](https://www.zeit.de/autoren/J/Oliver-_Jessner/index)
 - 🤴🏼 [OpenEmperor](https://github.com/oliverjessner/OpenEmperor) - Recompilation of Emperor: Rise of the Middle Kingdom
 
 ## Nativ Desktop Apps
-- 🍍 [PineFetch](https://oliverjessner.at/pinefetch/) - Save clips. Watch offline. Grab a pineapple.
+- 🍍 [PineFetch](https://oliverjessner.at/pinefetch/) - Download videos, captions, and transcripts from across the web.
 - 🖼️ [BulkPixel](https://oliverjessner.at/bulkpixel/) - Convert more. Click less.
 - 💩 [NO BULLSHIT RSS](https://oliverjessner.at/no-bullshit-rss/) - RSS reader without the SaaS leash.
 - 🧮 [Pitchary](https://github.com/oliverjessner/pitchary) - Every pitch has a history. A lightweight CRM for services, clients and deals.
