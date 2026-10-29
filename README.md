@@ -36,6 +36,7 @@ Published at:  [DIE ZEIT](https://www.zeit.de/autoren/J/Oliver-_Jessner/index)
 - 🧩 [text2struct](https://github.com/oliverjessner/text2struct) - Convert plain text to structured formats: JSON, SQL, Markdown tables, and CSV.
 
 ## Browser Extension
+- 🍪 [CookieBase](https://github.com/oliverjessner/cookiebase) - Your cookies. Your sessions. Your control.
 - 🪦 [LinkYard](https://chromewebstore.google.com/detail/linkyard/gjiooiibelbfndjihhkppkflbflopnpp) - Where links go before they disappear.
 - 🍍 [PineFetch Link Dump](https://github.com/oliverjessner/PineFetch-Link-Dump) - Send YouTube links from your browser to PineFetch.
 - 💙 [BlauHerzFilter](https://chromewebstore.google.com/detail/blauherzfilter/ekhanknjgoennfolmgpmhfhkfehcgldp) - A 💙 comment filter for your favorite social media platforms.
